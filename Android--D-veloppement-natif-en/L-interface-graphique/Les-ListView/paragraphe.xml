@@ -1,0 +1,40 @@
+<paragraphe titre="Les ListView">
+	<sparagraphes>
+		<sparagraphe titre="TITRE">
+			<illustration>ILLUSTRATION</illustration>
+			<contenu>CONTENU1</contenu>
+			<exemples>
+				<exemple>
+					<description>
+					EXEMPLEDESCRIPTION
+					</description>
+					EXEMPLECONTENU
+					<contenu>
+					</contenu>
+				</exemple>
+			</exemples>
+			<sites>
+				<site></site>
+				<site></site>
+			</sites>
+			<exercices>
+				<exercice>
+					<enonce>ENONCE</enonce>
+					<corrige>CORRIGE</corrige>
+					<download>DOWNLOAD</download>
+				</exercice>
+			</exercices>
+		</sparagraphe>
+	</sparagraphes>
+	<ia>
+		<theme>
+		THEME
+		</theme>
+		<questions>
+			En francais Expliquer : THEME, Angular -
+			En francais Comment utiliser : THEME, Angular -
+			En francais Exemple simple : THEME, Angular -
+			En francais Syntaxe : THEME, Angular
+		</questions>
+	</ia>
+</paragraphe>
