@@ -1,3 +1,4 @@
 toto@m2i.fr
 titi@m2i.fr
 tutu@m2i.fr
+tata@m2i.fr
